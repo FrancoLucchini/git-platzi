@@ -17,3 +17,8 @@ html{
 #container h1{
     font-size: 20px;
 }
+
+footer{
+    background-color: grey;
+    text-align: center;
+}
