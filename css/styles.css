@@ -2,6 +2,7 @@ html{
     text-align: center;
     font-family: 'Courier New', Courier, monospace, Helvetica, sans-serif;
     color: #333;
+    background: black;
 }
 
 #container{
